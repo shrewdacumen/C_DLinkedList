@@ -11,5 +11,13 @@ But I've found that the introduction of `sentinel` to LinkedList may simplfy the
 And the implementaiton in value type would be another alternative: I love **value type** as well.
 However, I prefer a clearer, simpler, manageable implementation in Swift5 that is my point. 
 
+
+### Singly Linked List Example:
+ Some related exercise for singly linked list is here:
+ https://leetcode.com/problems/add-two-numbers/discuss/1632426/in-Swift-5.5-clearer-faster-and-more-understandable-code
+ This is my implementation, experience of the problem on LeetCode.com
+  and I found that most coding competition sites do **NOT** treat elegantly Swift language so far.
+
+
 Oct 29, 2021
 Thanks, by Sungwook Kim

@@ -20,6 +20,11 @@
 /// Thanks, by Sungwook Kim
 ///
 
+/// Some related exercise for singly linked list is here:
+/// https://leetcode.com/problems/add-two-numbers/discuss/1632426/in-Swift-5.5-clearer-faster-and-more-understandable-code
+/// This is my implementation, experience of the problem on LeetCode.com
+///  and I found that most coding competition sites do **NOT** treat elegantly Swift language so far.
+
 import Foundation
 
 public class C_DLinkedList<Key: Equatable & Comparable> {
